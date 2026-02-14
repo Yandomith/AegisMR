@@ -1,0 +1,157 @@
+# ==================================================
+# =============== UNITY GENERATED ==================
+# ==================================================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# Asset Import Pipeline
+Library/ArtifactDB
+Library/SourceAssetDB
+Library/ShaderCache
+Library/PackageCache
+Library/StateCache
+Library/metadata/
+
+# Addressables
+ServerData/
+
+# Gradle (Android)
+.gradle/
+.gradle-cache/
+build/
+
+# ==================================================
+# ================== UNITY CLOUD ===================
+# ==================================================
+
+UnityConnectSettings.asset
+collabignore
+.collabignore
+.collab/
+Assets/StreamingAssets/UnityServicesProjectConfiguration.json
+
+# ==================================================
+# ================== IDE FILES =====================
+# ==================================================
+
+# Visual Studio
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Consulo
+.consulo/
+
+# ==================================================
+# ================== BUILD OUTPUT ==================
+# ==================================================
+
+*.apk
+*.aab
+*.apks
+*.unitypackage
+*.app
+*.exe
+*.ipa
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata/
+*.xcuserstate
+*.keystore
+*.androidlib
+*.aar
+*.obb
+
+# iOS
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# WebGL
+*.jslib
+*.symbols.json
+
+# ==================================================
+# ================== CACHE FILES ===================
+# ==================================================
+
+sysinfo.txt
+*.stacktrace
+*.crash
+*.log
+
+# Shader cache
+*.shadercache
+
+# ==================================================
+# ================== OS FILES ======================
+# ==================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ==================================================
+# ================== BACKUPS =======================
+# ==================================================
+
+*.bak
+*.backup
+*.old
+*.orig
+
+# ==================================================
+# ================== DATABASES =====================
+# ==================================================
+
+*.sqlite
+*.db
+*.db-shm
+*.db-wal
+
+# ==================================================
+# ================== MISC ==========================
+# ==================================================
+
+*.pid
+*.seed
+*.pid.lock
