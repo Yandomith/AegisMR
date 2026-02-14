@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.15f1
+CRC: 2462172055
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d147f74e0f0d100daf3ad46e201bdc50
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 62e0b6b8060db67607fb3e61db054d1c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 7a8dd7888fb5bacc119174e0cf110c4e
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: c5af6ab9d1bd4a47970ad151090281f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4cfe1df7ed391a24fbe2a2d275e81b06, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PoseDetection.FingerFeatureStateThreshold
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PoseDetection.FingerFeatureThresholds
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PoseDetection.ShapeRecognizer/FingerFeatureConfig
+- AssemblyName: Oculus.Interaction
+  ClassName: Oculus.Interaction.PoseDetection.ShapeRecognizer/FingerFeatureConfigList
+Assets:
+- Packages/com.meta.xr.sdk.interaction/Runtime/DefaultSettings/Locomotion/LocomotionThumbFeatureStateThresholds.asset
+- Packages/com.meta.xr.sdk.interaction/Runtime/DefaultSettings/PoseDetection/DefaultThumbFeatureStateThresholds.asset
+- Packages/com.meta.xr.sdk.interaction/Runtime/DefaultSettings/Locomotion/LShape.asset
+- Packages/com.meta.xr.sdk.interaction/Runtime/DefaultSettings/Locomotion/RelaxedCurl.asset
+- Packages/com.meta.xr.sdk.interaction/Runtime/DefaultSettings/Locomotion/ExitMicroGesture.asset
+- Packages/com.meta.xr.sdk.interaction/Runtime/DefaultSettings/PoseDetection/DefaultFingerFeatureStateThresholds.asset
+- Packages/com.meta.xr.sdk.interaction/Runtime/DefaultSettings/Locomotion/LocomotionMiddleFeatureStateThresholds.asset
+- Packages/com.meta.xr.sdk.interaction/Runtime/DefaultSettings/Locomotion/LocomotionIndexFeatureStateThresholds.asset
+Dependencies: []

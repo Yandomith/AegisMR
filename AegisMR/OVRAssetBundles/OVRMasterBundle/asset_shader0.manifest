@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.15f1
+CRC: 1793216654
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b91b76d37994c17c7a427077f4717520
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bb8521372c98e74594d3b7eb1b0a7a88
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a256930bc3c6d8782a65271f09b7af99
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.meta.xr.sdk.core/Shaders/MetaLit.shader
+- Packages/com.meta.xr.sdk.interaction/Runtime/Shaders/Locomotion/TransparentVertexTexture.shader
+- Packages/com.meta.xr.sdk.interaction/Runtime/Shaders/Locomotion/Hotspot.shader
+- Packages/com.meta.xr.mrutilitykit/Core/Shaders/TransparentTexture.shader
+- Packages/com.unity.render-pipelines.universal/Shaders/Unlit.shader
+- Packages/com.meta.xr.mrutilitykit/Core/Shaders/MRUKLit.shader
+- Packages/com.meta.xr.sdk.interaction/Runtime/Shaders/OculusControllerRayShader.shader
+- Packages/com.meta.xr.sdk.interaction/Runtime/Shaders/Locomotion/TunnelingEffect.shader
+- Packages/com.meta.xr.sdk.core/Editor/BuildingBlocks/BlockData/RoomModel/Shaders/TransparentTexture.shader
+- Packages/com.meta.xr.sdk.core/Editor/BuildingBlocks/BlockData/PassthroughWindow/Shaders/SelectivePassthrough.shader
+- Packages/com.meta.xr.sdk.interaction/Runtime/Shaders/OculusHandCursor.shader
+- Packages/com.meta.xr.mrutilitykit/Core/Shaders/Wireframe.shader
+- Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+- Packages/com.meta.xr.sdk.interaction/Runtime/Shaders/OculusHand.shader
+Dependencies: []

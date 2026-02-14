@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.15f1
+CRC: 829556711
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e00f5032ceeeda58aa95907b7b7bcb9f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5c78b400b9ae7f612e5191bcb3e3dbfc
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2bdd742b48142abb80fdc5231ddea058
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8922a6ca86889d84f8371a29d37b6dc8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2b76bcf034ab49e4a8cd30239a716460, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3fe6e38ac2d4c22b04340d6eda2a47e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a7d75bea1662418ab5f9e0c22110bc09, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 60e5406209e5ed147bb02ed71f9c40f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3863570e7e6387a40ae4f323d83291e5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/InputActions.asset
+- Assets/Resources/MetaXRAudioSettings.asset
+- Assets/Resources/MetaXRAcousticSettings.asset
+- Assets/Resources/MetaXRAcousticMaterialMapping.asset
+- Assets/Resources/PerformanceTestRunSettings.json
+- Assets/Resources/OVRBuildConfig.asset
+- Assets/Resources/ImmersiveDebuggerSettings.asset
+- Assets/Resources/PerformanceTestRunInfo.json
+- Assets/Resources/OculusRuntimeSettings.asset
+- Assets/Resources/OVRPlatformToolSettings.asset
+Dependencies: []
