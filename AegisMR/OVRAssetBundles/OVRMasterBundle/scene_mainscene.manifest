@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.15f1
-CRC: 3880754370
+CRC: 3216745462
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 10b6b057bdaf7b2d8632beb9883e5ced
+    Hash: 0041bd43327cb23cdf8e98cfad5844ce
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 33b38def01b3340fb77a67317618b963
+    Hash: b957d5990214c3596a713fb00c36a729
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: bda5b0c7fe75452fd85d593e2b34ad17
+    Hash: 46f5a85d1f3c8db31550e21667e5e108
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -69,6 +69,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 194b7d1054b8fa64b9bdcea46d06c3a1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 8c187a71eebf18441816c16087a51cb6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ffafe05bb0804645ad50413063f9a92, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 331d7f91e4f2d20498cb8079638deeda, type: 3}
 - Class: 114
@@ -165,8 +167,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: d17425af5fc89a443bba05adbe10381a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: df9f338034892c44ebb62d97894772f1, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: b6ed3777aa6e7a043b1b66fac9e838fb, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: de76f7169412b8f4896235a1585d8939, type: 3}
 - Class: 114
@@ -352,6 +352,7 @@ Dependencies:
 - D:/PortfolioProject/AegisMR/AegisMR/OVRAssetBundles/OVRMasterBundle/asset_fbx0
 - D:/PortfolioProject/AegisMR/AegisMR/OVRAssetBundles/OVRMasterBundle/asset_mat0
 - D:/PortfolioProject/AegisMR/AegisMR/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- D:/PortfolioProject/AegisMR/AegisMR/OVRAssetBundles/OVRMasterBundle/asset_obj0
 - D:/PortfolioProject/AegisMR/AegisMR/OVRAssetBundles/OVRMasterBundle/asset_png0
 - D:/PortfolioProject/AegisMR/AegisMR/OVRAssetBundles/OVRMasterBundle/asset_prefab0
 - D:/PortfolioProject/AegisMR/AegisMR/OVRAssetBundles/OVRMasterBundle/asset_prefab1

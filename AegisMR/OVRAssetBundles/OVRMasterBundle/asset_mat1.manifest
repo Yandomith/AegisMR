@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.15f1
-CRC: 1929827259
+CRC: 3521282963
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2dad699e92210fafb6be4a581bf8d8af
+    Hash: 77e58492027b8036f0e754a2f5a7819e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4946d9aa1a4c0871d75943c6e3d5e7c6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: fc3a95b5cc92569051cef088469f3e86
+    Hash: 6dade3c294c68301bb68845820dcdc26
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -25,10 +25,10 @@ Assets:
 - Assets/Materials/EffectMesh.mat
 - Packages/com.meta.xr.mrutilitykit/Core/Materials/PINK_Bed.mat
 - Packages/com.meta.xr.sdk.interaction/Runtime/Materials/TeleportReticleMaterial.mat
+- Assets/Materials/Passthrough.mat
 - Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
 - Packages/com.meta.xr.sdk.interaction/Runtime/Materials/TransparentStandard.mat
 - Packages/com.meta.xr.mrutilitykit/Core/Materials/YELLOW_Screen.mat
-- Assets/Materials/WallPassThrough.mat
 Dependencies:
 - D:/PortfolioProject/AegisMR/AegisMR/OVRAssetBundles/OVRMasterBundle/asset_png0
 - D:/PortfolioProject/AegisMR/AegisMR/OVRAssetBundles/OVRMasterBundle/asset_shader0

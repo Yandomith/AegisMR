@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.15f1
+CRC: 4120161074
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20fc213f17c7c58027231a05a30f2139
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3b8b629cd512abe03f70b0cd411ce10b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 31279601394afa6b98711a1118908c00
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/ConcertinaWire.obj
+Dependencies:
+- D:/PortfolioProject/AegisMR/AegisMR/OVRAssetBundles/OVRMasterBundle/asset_shader0

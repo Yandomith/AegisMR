@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.15f1
-CRC: 2724131344
+CRC: 1487229962
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 78b0d2d7b184820cbed00bf0875b7bf9
+    Hash: 3f9e4707c44084461c8694252eb81142
   TypeTreeHash:
     serializedVersion: 2
     Hash: 45f7010043c55efb4edbd1c0d2e48c5f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 28fe0ab6df6f9eb4bb87566c285f5048
+    Hash: e8ba21584df21ff5ee9d69d7843faa40
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -348,6 +348,7 @@ Assets:
 - Packages/com.meta.xr.sdk.interaction.ovr/Runtime/Prefabs/Microgestures/TurnerMicrogesture.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/DistanceHandGrab/Reticles/ReticleIcon.prefab
 - Packages/com.meta.xr.sdk.interaction.ovr/Runtime/Prefabs/OVRInteractionComprehensive.prefab
+- Packages/com.meta.xr.sdk.interaction.ovr/Runtime/Prefabs/Controller/OVRControllersDataSource.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/Hands/OVRRightHandSynthetic.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/Locomotion/LocomotionHandInteractorGroup.prefab
 - Packages/com.meta.xr.mrutilitykit/Core/Rooms/Prefabs/Other/OtherRoom04_empty.prefab

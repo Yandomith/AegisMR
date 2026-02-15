@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.15f1
-CRC: 1173201868
+CRC: 467558074
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4af7cb425719b6bc6d5899d1992415e5
+    Hash: a9be9592bda44f400df14f3eadde2dcf
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a082222a6948c54e13104ba908661b4d
+    Hash: 7f41aa9605d9e53d4f6c3141e4c93aad
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 54c97cd878723bda38d669b7b04f1c3d
+    Hash: 1e75aefb7b63eaf01579386cb9ae151f
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -28,6 +28,8 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 - Class: 54
+  Script: {instanceID: 0}
+- Class: 65
   Script: {instanceID: 0}
 - Class: 90
   Script: {instanceID: 0}
@@ -106,8 +108,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 838bf82eef6d73d42b59f428c4e33417, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 4ae60cfa43388e449a7518f36418f81c, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 0c6aa09f2d128af4d93fb9fc29ecec33, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9c2beb69c900ccf4984646ad420b1e17, type: 3}
@@ -117,8 +117,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: a7b47e36715521d4e8a30d2c5b6e83e2, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d5e48d93b64a9ae4f9fd5a728c8f51af, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: ee6b94f7bc105c24ea3746dc4141a7eb, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 4855895ba1c44959a306beb7ae318fc2, type: 3}
 - Class: 114
@@ -263,6 +261,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Packages/com.meta.xr.sdk.interaction.ovr/Runtime/Prefabs/Microgestures/TeleportMicrogestureInteractor.prefab
 - Packages/com.meta.xr.mrutilitykit/Core/Rooms/Prefabs/LivingRoom/LivingRoom05.prefab
+- Assets/Prefabs/floorPrefab.prefab
 - Packages/com.meta.xr.sdk.interaction.ovr/Runtime/Prefabs/Legacy/OVRControllerVisual.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/Locomotion/ControllerSlide.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/Hands.prefab
@@ -271,7 +270,6 @@ Assets:
 - Packages/com.meta.xr.mrutilitykit/Core/Rooms/Prefabs/LivingRoom/LivingRoom07.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/Locomotion/Locomotor.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/DistanceHandGrab/ControllerDistanceGrabInteractor.prefab
-- Packages/com.meta.xr.sdk.interaction.ovr/Runtime/Prefabs/Controller/OVRControllersDataSource.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/Ray/ControllerRayInteractor.prefab
 - Packages/com.meta.xr.sdk.interaction/Runtime/Prefabs/Locomotion/TeleportControllerInteractor.prefab
 - Packages/com.meta.xr.sdk.interaction.ovr/Runtime/Prefabs/Hands/OVRHandsDataSource.prefab

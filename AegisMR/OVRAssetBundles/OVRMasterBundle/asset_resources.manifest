@@ -1,22 +1,22 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.15f1
-CRC: 829556711
+CRC: 2508355959
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e00f5032ceeeda58aa95907b7b7bcb9f
+    Hash: 04333be995fe92990a825529680e188b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5c78b400b9ae7f612e5191bcb3e3dbfc
+    Hash: b32769a3de48ac809982b5ee115a94a3
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2bdd742b48142abb80fdc5231ddea058
+    Hash: a381abadff0b08e23cde5fb4e6322ce3
 HashAppended: 0
 ClassTypes:
-- Class: 49
-  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 8922a6ca86889d84f8371a29d37b6dc8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b3d881e962d099f4a8eb492ef7e9a8c0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2b76bcf034ab49e4a8cd30239a716460, type: 3}
 - Class: 114
@@ -35,10 +35,9 @@ Assets:
 - Assets/Resources/MetaXRAudioSettings.asset
 - Assets/Resources/MetaXRAcousticSettings.asset
 - Assets/Resources/MetaXRAcousticMaterialMapping.asset
-- Assets/Resources/PerformanceTestRunSettings.json
 - Assets/Resources/OVRBuildConfig.asset
+- Assets/Resources/OculusPlatformSettings.asset
 - Assets/Resources/ImmersiveDebuggerSettings.asset
-- Assets/Resources/PerformanceTestRunInfo.json
 - Assets/Resources/OculusRuntimeSettings.asset
 - Assets/Resources/OVRPlatformToolSettings.asset
 Dependencies: []

@@ -1,6 +1,6 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.15f1
-CRC: 433713986
+CRC: 1433899355
 HashAppended: 0
 AssetBundleManifest:
   AssetBundleInfos:
@@ -20,6 +20,7 @@ AssetBundleManifest:
         Dependency_7: asset_mat1
         Dependency_8: asset_png0
         Dependency_9: asset_wav0
+        Dependency_10: asset_obj0
     Info_2:
       Name: asset_shader0
       Dependencies: {}
@@ -44,6 +45,7 @@ AssetBundleManifest:
         Dependency_6: asset_mat1
         Dependency_7: asset_png0
         Dependency_8: asset_wav0
+        Dependency_9: asset_obj0
     Info_5:
       Name: asset_prefab1
       Dependencies:
@@ -98,3 +100,7 @@ AssetBundleManifest:
     Info_15:
       Name: asset_jpg0
       Dependencies: {}
+    Info_16:
+      Name: asset_obj0
+      Dependencies:
+        Dependency_0: asset_shader0

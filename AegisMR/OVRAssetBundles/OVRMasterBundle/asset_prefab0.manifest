@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.2.15f1
-CRC: 3111068310
+CRC: 2989400812
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 42585cfffa96e4b040e7db92b8eef062
+    Hash: 3020542c5fd4371bbb03ced3e4b3283e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 597bd0926d5890380f2dc4606976da76
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d30cc5d1b93d9b5f41849d6aeb98b934
+    Hash: 3e5d07c55cad21fac058b95c0153d204
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -383,6 +383,7 @@ Dependencies:
 - D:/PortfolioProject/AegisMR/AegisMR/OVRAssetBundles/OVRMasterBundle/asset_fbx0
 - D:/PortfolioProject/AegisMR/AegisMR/OVRAssetBundles/OVRMasterBundle/asset_mat0
 - D:/PortfolioProject/AegisMR/AegisMR/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- D:/PortfolioProject/AegisMR/AegisMR/OVRAssetBundles/OVRMasterBundle/asset_obj0
 - D:/PortfolioProject/AegisMR/AegisMR/OVRAssetBundles/OVRMasterBundle/asset_png0
 - D:/PortfolioProject/AegisMR/AegisMR/OVRAssetBundles/OVRMasterBundle/asset_prefab1
 - D:/PortfolioProject/AegisMR/AegisMR/OVRAssetBundles/OVRMasterBundle/asset_prefab2

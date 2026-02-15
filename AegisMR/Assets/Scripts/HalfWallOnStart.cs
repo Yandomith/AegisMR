@@ -10,6 +10,8 @@ public class HalfWallOnStart : MonoBehaviour
         Invoke(nameof(ScaleHalf), 0.05f);
     }
 
+    public UnityEngine.Events.UnityEvent OnScaled;
+
     void ScaleHalf()
     {
         if (hasScaled) return;
@@ -18,14 +20,12 @@ public class HalfWallOnStart : MonoBehaviour
         Transform t = transform;
 
         Vector3 originalScale = t.localScale;
-        float originalHeight = originalScale.y;
-
+        
         // Half height
         originalScale.y *= 0.5f;
         t.localScale = originalScale;
 
-        // // Move downward so bottom stays aligned
-        // float offset = originalHeight * 0.25f;
-        // t.position -= t.up * offset;
+        OnScaled?.Invoke();
     }
+    
 }
