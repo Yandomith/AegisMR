@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace Dynamite3D.RealIvy{
 	public class RealIvyTools : EditorWindow {
-		#region variables
+        #region variables
 		//public static RealIvyProTools instance;
 		//public RealIvyProWindow realIvyProWindow;
         public InfoPool infoPool;
@@ -48,7 +48,7 @@ namespace Dynamite3D.RealIvy{
         private static Texture2D modePaintTex, modeMoveTex, modeSmoothTex, modeRefineTex, modeOptimizeTex, modeCutTex, modeDeleteTex, modeShaveTex, modeAddLeavesTex, downArrowTex, upArrowTex;
         private static GUISkin windowSkin;
 
-		#endregion
+        #endregion
 		public void Init(RealIvyWindow realIvyProWindow, InfoPool infoPool)
 		{
 			//instance = (RealIvyProTools)EditorWindow.GetWindow(typeof(RealIvyProTools));
@@ -165,6 +165,12 @@ namespace Dynamite3D.RealIvy{
 
             if (RealIvyWindow.instance.placingSeed)
             {
+    check             // Raycast on mouse move
+                if (current.type == EventType.MouseMove)
+                {
+                    RayCastSceneView();
+                }
+                
                 Handles.color = new Color(0.2f, 1f, 0.3f);
                 Handles.DrawSolidDisc(mousePoint, mouseNormal, 0.1f);
                 Handles.DrawLine(mousePoint, mousePoint + mouseNormal * 0.2f);
@@ -174,6 +180,8 @@ namespace Dynamite3D.RealIvy{
                     {
                         if (!current.control && !current.shift && !current.alt)
                         {
+                            // Raycast on click as well in case mouse hasn't moved
+                            RayCastSceneView();
                             if (rayCast)
                             {
 								RealIvyWindow.instance.CreateNewIvy();
@@ -183,7 +191,7 @@ namespace Dynamite3D.RealIvy{
                         }
                     }
                 }
-                if (current.type == EventType.MouseMove)
+                if (current.type == EventType.Repaint)
                 {
                     RayCastSceneView();
                 }
@@ -493,18 +501,56 @@ namespace Dynamite3D.RealIvy{
             Vector2 mouseScreenPos = Event.current.mousePosition;
             Ray ray = HandleUtility.GUIPointToWorldRay(mouseScreenPos);
             RaycastHit RC;
-            if (Physics.Raycast(ray, out RC, 2000f, infoPool.ivyParameters.layerMask.value))
+            
+            // Method 1: Standard Physics raycast
+            if (Physics.Raycast(ray, out RC, 2000f, ~0, QueryTriggerInteraction.Collide))
             {
-                //SceneView.lastActiveSceneView.Repaint();
                 mousePoint = RC.point;
                 mouseNormal = RC.normal;
-
                 rayCast = true;
+                return;
             }
-            else
+            
+            // Method 2: Use HandleUtility for editor picking (works without physics simulation)
+            GameObject picked = HandleUtility.PickGameObject(mouseScreenPos, false);
+            if (picked != null)
             {
-                rayCast = false;
+                // Try to get a collider from the picked object
+                Collider col = picked.GetComponent<Collider>();
+                if (col == null) col = picked.GetComponentInChildren<Collider>();
+                if (col == null) col = picked.GetComponentInParent<Collider>();
+                
+                if (col != null)
+                {
+                    // Raycast against this specific collider
+                    if (col.Raycast(ray, out RC, 2000f))
+                    {
+                        mousePoint = RC.point;
+                        mouseNormal = RC.normal;
+                        rayCast = true;
+                        return;
+                    }
+                }
+                
+                // Fallback: use the closest point on renderer bounds
+                Renderer rend = picked.GetComponent<Renderer>();
+                if (rend != null)
+                {
+                    // Project ray onto object - find intersection with renderer bounds
+                    Bounds bounds = rend.bounds;
+                    float distance;
+                    if (bounds.IntersectRay(ray, out distance))
+                    {
+                        mousePoint = ray.GetPoint(distance);
+                        // Estimate normal from center
+                        mouseNormal = (mousePoint - bounds.center).normalized;
+                        rayCast = true;
+                        return;
+                    }
+                }
             }
+            
+            rayCast = false;
         }
     }
 }
