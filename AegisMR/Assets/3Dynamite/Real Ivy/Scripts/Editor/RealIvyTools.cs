@@ -165,7 +165,7 @@ namespace Dynamite3D.RealIvy{
 
             if (RealIvyWindow.instance.placingSeed)
             {
-    check             // Raycast on mouse move
+                // Raycast on mouse move
                 if (current.type == EventType.MouseMove)
                 {
                     RayCastSceneView();

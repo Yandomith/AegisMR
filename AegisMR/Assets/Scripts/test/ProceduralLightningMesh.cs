@@ -71,6 +71,8 @@ public class ProceduralLightningMesh : MonoBehaviour
     public Color edgeColor = new Color(0.2f, 0.6f, 1f, 1f); // Blue edge
     [Tooltip("Use additive blending for glow effect")]
     public bool additiveBlending = true;
+    [Tooltip("Assign a VR-compatible material (recommended for Quest). If null, creates material at runtime.")]
+    public Material lightningMaterial;
 
     private Mesh lightningMesh;
     private MeshFilter meshFilter;
@@ -161,25 +163,55 @@ public class ProceduralLightningMesh : MonoBehaviour
 
         meshRenderer = gameObject.AddComponent<MeshRenderer>();
 
-        // Create lightning material with proper glow
-        Material mat;
-        if (additiveBlending)
+        // Use assigned material if available (recommended for VR)
+        if (lightningMaterial != null)
         {
-            // Additive shader for glow effect
-            mat = new Material(Shader.Find("Particles/Standard Unlit"));
-            mat.SetInt("_SrcBlend", (int)UnityEngine.Rendering.BlendMode.SrcAlpha);
-            mat.SetInt("_DstBlend", (int)UnityEngine.Rendering.BlendMode.One);
-            mat.SetInt("_ZWrite", 0);
-            mat.SetFloat("_Mode", 2); // Additive
-            mat.renderQueue = 3000;
-            mat.enableInstancing = true;
+            meshRenderer.material = new Material(lightningMaterial);
+            meshRenderer.material.color = coreColor;
         }
         else
         {
-            mat = new Material(Shader.Find("Unlit/Color"));
+            // Create lightning material at runtime (may not work on Quest)
+            Material mat = null;
+            
+            if (additiveBlending)
+            {
+                // Try to find additive shader
+                Shader shader = Shader.Find("Particles/Standard Unlit");
+                if (shader == null) shader = Shader.Find("Universal Render Pipeline/Unlit");
+                if (shader == null) shader = Shader.Find("Unlit/Color");
+                
+                if (shader != null)
+                {
+                    mat = new Material(shader);
+                    mat.SetInt("_SrcBlend", (int)UnityEngine.Rendering.BlendMode.SrcAlpha);
+                    mat.SetInt("_DstBlend", (int)UnityEngine.Rendering.BlendMode.One);
+                    mat.SetInt("_ZWrite", 0);
+                    mat.renderQueue = 3000;
+                    mat.enableInstancing = true;
+                }
+            }
+            else
+            {
+                Shader shader = Shader.Find("Universal Render Pipeline/Unlit");
+                if (shader == null) shader = Shader.Find("Unlit/Color");
+                
+                if (shader != null)
+                {
+                    mat = new Material(shader);
+                }
+            }
+            
+            if (mat != null)
+            {
+                mat.color = coreColor;
+                meshRenderer.material = mat;
+            }
+            else
+            {
+                Debug.LogWarning("Lightning: Could not find shader. Assign a material in the Inspector for VR builds.");
+            }
         }
-        mat.color = coreColor;
-        meshRenderer.material = mat;
 
         // Cache initial positions
         if (startPoint != null) lastStartPos = startPoint.position;
