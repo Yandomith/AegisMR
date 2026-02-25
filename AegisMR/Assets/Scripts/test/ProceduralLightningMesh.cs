@@ -173,14 +173,14 @@ public class ProceduralLightningMesh : MonoBehaviour
         {
             // Create lightning material at runtime (may not work on Quest)
             Material mat = null;
-            
+
             if (additiveBlending)
             {
                 // Try to find additive shader
                 Shader shader = Shader.Find("Particles/Standard Unlit");
                 if (shader == null) shader = Shader.Find("Universal Render Pipeline/Unlit");
                 if (shader == null) shader = Shader.Find("Unlit/Color");
-                
+
                 if (shader != null)
                 {
                     mat = new Material(shader);
@@ -195,13 +195,13 @@ public class ProceduralLightningMesh : MonoBehaviour
             {
                 Shader shader = Shader.Find("Universal Render Pipeline/Unlit");
                 if (shader == null) shader = Shader.Find("Unlit/Color");
-                
+
                 if (shader != null)
                 {
                     mat = new Material(shader);
                 }
             }
-            
+
             if (mat != null)
             {
                 mat.color = coreColor;
