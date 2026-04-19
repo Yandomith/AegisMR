@@ -1,0 +1,2 @@
+E:\Unity\AegisMR\AegisMR\Library\PramData\AndroidApplicationController\Cache\com.yandosmith.aegismr\gradle-project\unityLibrary\src\main\cpp\CMakeLists.txt
+E:\Unity\AegisMR\AegisMR\Library\PramData\AndroidApplicationController\Cache\com.yandosmith.aegismr\gradle-project\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

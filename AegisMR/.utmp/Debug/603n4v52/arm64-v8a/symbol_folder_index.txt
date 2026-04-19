@@ -1,0 +1,1 @@
+E:\Unity\AegisMR\AegisMR\Library\PramData\AndroidApplicationController\Cache\com.yandosmith.aegismr\gradle-project\unityLibrary\build\intermediates\cxx\Debug\603n4v52\obj\arm64-v8a

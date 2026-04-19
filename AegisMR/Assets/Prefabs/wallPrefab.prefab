@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::WallObjectSpawner
   objectToSpawn: {fileID: 919132149155446097, guid: ba75ea8dd61111842bd54d0633db497e, type: 3}
-  spawnCount: 2
+  spawnCount: 1
   spawnArea: {x: 1, y: 0.1}
   surfaceOffset: 0
   parentToWall: 1
@@ -138,6 +138,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!64 &9103483446628108208
 MeshCollider:
@@ -312,6 +313,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+  m_MaskInteraction: 0
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!65 &13376469603865048
 BoxCollider:
