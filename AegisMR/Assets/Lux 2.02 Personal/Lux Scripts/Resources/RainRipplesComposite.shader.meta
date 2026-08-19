@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 405c0f928f8b049278b71f6973bbe261
+timeCreated: 1493616991
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Scripts/Resources/RainRipplesComposite.shader
+  uploadId: 331151

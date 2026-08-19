@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b757292c1f82e4df7b3be0a1aa3c5c39
+timeCreated: 1493629899
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux Standard Shader/Lux_TranslucentSpecular.shader
+  uploadId: 331151

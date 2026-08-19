@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6a293f571ab3f4628ad761b3a200dd40
+timeCreated: 1496045423
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux custom Translucent Shaders/AutoLight.cginc
+  uploadId: 331151

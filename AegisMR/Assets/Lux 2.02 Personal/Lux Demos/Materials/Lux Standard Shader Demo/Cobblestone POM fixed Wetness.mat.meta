@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a4e37d7f4c63b46bf9a8806a96328871
+timeCreated: 1460845985
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Standard Shader Demo/Cobblestone
+    POM fixed Wetness.mat
+  uploadId: 331151

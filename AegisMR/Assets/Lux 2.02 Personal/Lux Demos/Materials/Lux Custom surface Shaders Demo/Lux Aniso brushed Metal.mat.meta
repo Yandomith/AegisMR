@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 02b1941d2489a4222a84e48a0298af7a
+timeCreated: 1460096911
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Custom surface Shaders
+    Demo/Lux Aniso brushed Metal.mat
+  uploadId: 331151

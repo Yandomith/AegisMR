@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 505ad5f4902744164b9bcc2d81aa2c1a
+timeCreated: 1459579370
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Area Lights Demo/Unlit
+    magenta.mat
+  uploadId: 331151

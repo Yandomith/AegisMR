@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e1bce2dd886a74e849477c595f0ce495
+timeCreated: 1461410691
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Dynamic Weather Demo/Cobblestone
+    Mud [Standard shader] Fixed Water Value.mat
+  uploadId: 331151

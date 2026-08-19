@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c3eac826a901a4b4e8bc05c3494f80a2
+timeCreated: 1494575747
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux custom Standard Shaders/Standard
+    DeferredDecal Parallax.shader
+  uploadId: 331151

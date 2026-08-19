@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 417faaee9806c4c57a6aba3277538ffd
+timeCreated: 1462820852
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Base Dynamic Weather.mat
+  uploadId: 331151

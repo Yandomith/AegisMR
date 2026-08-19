@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7f20056bc88d24a01853f840a93c5b58
+timeCreated: 1462818622
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Deferred Decals Demo/DecalShader
+    Parallax.mat
+  uploadId: 331151

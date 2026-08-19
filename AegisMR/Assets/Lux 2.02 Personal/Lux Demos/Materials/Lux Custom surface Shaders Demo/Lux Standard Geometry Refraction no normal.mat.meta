@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b378133e2d34d454798be5d185cf6c7c
+timeCreated: 1462733298
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Custom surface Shaders
+    Demo/Lux Standard Geometry Refraction no normal.mat
+  uploadId: 331151

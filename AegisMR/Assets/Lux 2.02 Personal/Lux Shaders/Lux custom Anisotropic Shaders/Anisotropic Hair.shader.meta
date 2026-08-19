@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 44f169f79640e461bbd623fd5e142047
+timeCreated: 1459856158
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux custom Anisotropic Shaders/Anisotropic
+    Hair.shader
+  uploadId: 331151

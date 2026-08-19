@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 659d58b7b92334360a937ffa6c8cdc60
+timeCreated: 1460281320
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Dynamic Weather Demo/Terrian
+    [Custom shader] dynamic Weather.mat
+  uploadId: 331151

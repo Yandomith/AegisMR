@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c934d254b87f7447690872a2ee7659e4
+timeCreated: 1491036054
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux custom Anisotropic Shaders/AutoLight.cginc
+  uploadId: 331151

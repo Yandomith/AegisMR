@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f4e96d8047c924232966889fda150772
+timeCreated: 1461756798
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux Core/Lux Features/LuxTessellation.cginc
+  uploadId: 331151

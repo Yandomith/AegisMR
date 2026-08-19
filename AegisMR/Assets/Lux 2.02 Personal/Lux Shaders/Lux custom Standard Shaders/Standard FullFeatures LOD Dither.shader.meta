@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d3509bd47b6504d4a9826fa74c51a090
+timeCreated: 1491039146
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux custom Standard Shaders/Standard
+    FullFeatures LOD Dither.shader
+  uploadId: 331151

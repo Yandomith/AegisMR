@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 33bc9d0766abf4554bceba332262ed68
+timeCreated: 1491039219
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux_Translucent Lighting_Base
+    1.mat
+  uploadId: 331151

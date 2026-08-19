@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e59d9514d3f5c429c8cfec15f4c526f4
+timeCreated: 1491038656
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux custom Skin Shaders/Lux Skin.shader
+  uploadId: 331151

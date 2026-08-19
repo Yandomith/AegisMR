@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 82c63ef6d5c1441d8b5e51fa99f26513
+timeCreated: 1457648089
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Area Lights Demo/Cobblestone
+    [Standard Shader] simple Wetness.mat
+  uploadId: 331151

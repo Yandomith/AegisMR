@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bc1ed20933e73437bac4033f74079392
+timeCreated: 1493649936
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux custom Standard Shaders/Standard
+    Terrain Base.shader
+  uploadId: 331151

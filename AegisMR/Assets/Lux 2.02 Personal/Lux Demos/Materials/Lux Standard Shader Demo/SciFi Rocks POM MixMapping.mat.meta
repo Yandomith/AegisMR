@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 12cddaae5818d4a5a9e1fe6d84c55c8e
+timeCreated: 1458303496
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Standard Shader Demo/SciFi
+    Rocks POM MixMapping.mat
+  uploadId: 331151

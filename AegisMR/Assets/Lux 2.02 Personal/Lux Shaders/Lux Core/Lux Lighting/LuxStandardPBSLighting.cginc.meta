@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 639255a431ca04804ab1f5986a41d87f
+timeCreated: 1456833290
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux Core/Lux Lighting/LuxStandardPBSLighting.cginc
+  uploadId: 331151

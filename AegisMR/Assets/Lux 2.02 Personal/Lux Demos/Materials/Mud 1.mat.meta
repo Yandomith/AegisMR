@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 20451e5249af143cd89c38ccdae1317a
+timeCreated: 1463488722
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Mud 1.mat
+  uploadId: 331151

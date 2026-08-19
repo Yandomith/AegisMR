@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b46c8d56c39824dcf9533cdd8cca50a4
+timeCreated: 1491039408
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux Standard Shader/LuxStandardShadow.cginc
+  uploadId: 331151

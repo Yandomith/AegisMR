@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2e787d752805d47f1ade4333916db070
+timeCreated: 1461774085
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Texture Postprocessing
+    Demo/Material unfiltered.mat
+  uploadId: 331151

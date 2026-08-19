@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4749d6e9dc2fd409daff07f9b1e59508
+timeCreated: 1458306819
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux Core/Lux Setup/LuxStructs.cginc
+  uploadId: 331151

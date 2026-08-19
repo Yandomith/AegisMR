@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 798451d13b0f34b879448940f6d194a6
+timeCreated: 1459111261
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Lux Area Lights.unity
+  uploadId: 331151

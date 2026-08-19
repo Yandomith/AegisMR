@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3e7e8bb2189fa437f875cade4c2b96d2
+timeCreated: 1459509374
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux Core/Lux Features/LuxDiffuseScattering.cginc
+  uploadId: 331151

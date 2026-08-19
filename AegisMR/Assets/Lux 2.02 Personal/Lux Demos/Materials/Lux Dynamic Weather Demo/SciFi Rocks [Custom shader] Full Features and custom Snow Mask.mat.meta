@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6a64f11a953754bbfa2f52a00ab7486d
+timeCreated: 1461313383
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Dynamic Weather Demo/SciFi
+    Rocks [Custom shader] Full Features and custom Snow Mask.mat
+  uploadId: 331151

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bbb4144bc45a94abe93d49ac0ebb76d4
+timeCreated: 1493643218
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux custom Standard Shaders/Standard
+    Tessellation DynamicWeather.shader
+  uploadId: 331151

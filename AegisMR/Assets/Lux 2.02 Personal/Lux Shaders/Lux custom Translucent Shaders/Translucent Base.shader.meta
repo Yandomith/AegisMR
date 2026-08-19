@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ea8dbf43656a14e93826f14f5a818ed4
+timeCreated: 1491039212
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux custom Translucent Shaders/Translucent
+    Base.shader
+  uploadId: 331151

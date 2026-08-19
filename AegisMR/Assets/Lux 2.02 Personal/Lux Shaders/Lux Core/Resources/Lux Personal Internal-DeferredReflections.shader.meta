@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9a719024e751b4e0b823c05d110c4dcf
+timeCreated: 1467658631
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux Core/Resources/Lux Personal
+    Internal-DeferredReflections.shader
+  uploadId: 331151

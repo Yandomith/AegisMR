@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 236d6203fc9e14d3283cfb2dc1c99fe1
+timeCreated: 1491038864
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux custom Skin Shaders/AutoLight.cginc
+  uploadId: 331151

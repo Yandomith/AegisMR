@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5e5136a3a96ab491c9d0d52493b2cb07
+timeCreated: 1462628933
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Deferred Decals Demo/DecalShader
+    FullFeatures.mat
+  uploadId: 331151

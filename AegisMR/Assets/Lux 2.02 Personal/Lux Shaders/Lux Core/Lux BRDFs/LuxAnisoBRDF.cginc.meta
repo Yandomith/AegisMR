@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 581255a16aa9444e99934b854c7557cc
+timeCreated: 1456993014
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux Core/Lux BRDFs/LuxAnisoBRDF.cginc
+  uploadId: 331151

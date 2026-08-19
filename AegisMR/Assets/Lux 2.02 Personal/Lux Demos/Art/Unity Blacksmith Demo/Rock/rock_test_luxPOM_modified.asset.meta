@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e1ead3c17968e48c89f5f074489d4848
+timeCreated: 1493495724
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Art/Unity Blacksmith Demo/Rock/rock_test_luxPOM_modified.asset
+  uploadId: 331151

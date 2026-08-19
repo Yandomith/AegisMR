@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8c291eaddccf847be80186749e3db399
+timeCreated: 1462884656
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Art/Textures/Decal/Materials/Decal_Floor
+    [Albedo] [Alpha].mat
+  uploadId: 331151

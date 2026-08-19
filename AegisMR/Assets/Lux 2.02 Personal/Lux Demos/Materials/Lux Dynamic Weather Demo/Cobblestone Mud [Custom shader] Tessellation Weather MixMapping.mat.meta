@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a4a6ce998554042d1a3b173fa27f2083
+timeCreated: 1458479824
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Dynamic Weather Demo/Cobblestone
+    Mud [Custom shader] Tessellation Weather MixMapping.mat
+  uploadId: 331151

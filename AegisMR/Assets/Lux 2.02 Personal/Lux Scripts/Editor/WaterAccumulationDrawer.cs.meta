@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 83d38bc6e11c74642aca0257269572cb
+timeCreated: 1457871702
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Scripts/Editor/WaterAccumulationDrawer.cs
+  uploadId: 331151

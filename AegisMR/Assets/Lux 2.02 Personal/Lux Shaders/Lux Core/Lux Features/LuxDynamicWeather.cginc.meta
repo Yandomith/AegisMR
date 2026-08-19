@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2bf7b63568556465e9490af8a811687d
+timeCreated: 1457265925
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux Core/Lux Features/LuxDynamicWeather.cginc
+  uploadId: 331151

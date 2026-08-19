@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ca43058ca19c9419b9c09a359c290959
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Art/_TerrainAutoUpgrade/layer_Mud[Albedo]
+    [Smoothness]Mud[Normal](4.000,4.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer
+  uploadId: 331151

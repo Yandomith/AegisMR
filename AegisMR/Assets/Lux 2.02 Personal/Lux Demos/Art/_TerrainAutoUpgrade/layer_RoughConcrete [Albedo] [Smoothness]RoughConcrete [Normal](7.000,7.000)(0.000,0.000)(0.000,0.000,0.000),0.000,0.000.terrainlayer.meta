@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bb90a2794d02f4d60a3d1f112c5d2c60
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Art/_TerrainAutoUpgrade/layer_RoughConcrete
+    [Albedo] [Smoothness]RoughConcrete [Normal](7.000,7.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer
+  uploadId: 331151

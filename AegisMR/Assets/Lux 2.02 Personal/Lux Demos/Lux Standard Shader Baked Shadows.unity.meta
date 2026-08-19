@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 287bffff5611f402795ff02ad45d6c17
+timeCreated: 1461544044
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Lux Standard Shader Baked Shadows.unity
+  uploadId: 331151

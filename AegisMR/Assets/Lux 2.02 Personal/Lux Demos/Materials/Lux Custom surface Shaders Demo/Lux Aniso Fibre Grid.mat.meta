@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7f1d336d941774ed68ad8fbf4dee8567
+timeCreated: 1459935973
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Custom surface Shaders
+    Demo/Lux Aniso Fibre Grid.mat
+  uploadId: 331151

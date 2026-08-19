@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 409241b2a2c25405ebcff2e4f903a28b
+timeCreated: 1493637591
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux custom Standard Shaders/Standard
+    FullFeatures DoubleSided Cutout.shader
+  uploadId: 331151

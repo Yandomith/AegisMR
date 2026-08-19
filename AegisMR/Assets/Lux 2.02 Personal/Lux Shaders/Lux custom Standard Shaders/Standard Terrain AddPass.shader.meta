@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c3063ae8456654430922a311e9c3800f
+timeCreated: 1493649936
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux custom Standard Shaders/Standard
+    Terrain AddPass.shader
+  uploadId: 331151

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2c6f374798052483a90dd34d16462dcb
+timeCreated: 1459674582
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Skin Demo/Skin.mat
+  uploadId: 331151

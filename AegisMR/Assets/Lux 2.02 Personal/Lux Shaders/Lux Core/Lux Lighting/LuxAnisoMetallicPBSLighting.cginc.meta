@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ceb6706d44de8463a8a7ea5effd0fdae
+timeCreated: 1459886480
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux Core/Lux Lighting/LuxAnisoMetallicPBSLighting.cginc
+  uploadId: 331151

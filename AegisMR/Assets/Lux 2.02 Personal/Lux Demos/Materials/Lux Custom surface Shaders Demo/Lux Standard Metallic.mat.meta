@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 38dd8e3ab4179494ebb8cab030dbb6be
+timeCreated: 1459111820
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Custom surface Shaders
+    Demo/Lux Standard Metallic.mat
+  uploadId: 331151

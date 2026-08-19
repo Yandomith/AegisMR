@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1e60732e7fbea4e02aa590cd2a75d22c
+timeCreated: 1461407884
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Dynamic Weather Demo/Cobblestone
+    Mud [Standard shader] Emission.mat
+  uploadId: 331151

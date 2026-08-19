@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f73a5d4ad46ac4767b3824001ab92673
+timeCreated: 1460274439
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Art/Lux Test Terrain.asset
+  uploadId: 331151

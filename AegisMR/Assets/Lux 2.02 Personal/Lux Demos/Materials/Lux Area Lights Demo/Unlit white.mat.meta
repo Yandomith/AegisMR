@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dceee99f06b244338983c6acb86efc2a
+timeCreated: 1459579301
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Demos/Materials/Lux Area Lights Demo/Unlit
+    white.mat
+  uploadId: 331151

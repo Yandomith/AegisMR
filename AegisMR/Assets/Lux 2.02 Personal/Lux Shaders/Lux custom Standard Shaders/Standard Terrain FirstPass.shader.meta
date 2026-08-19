@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ea7270ccc3d1c4b2c9f31b3bb78c2ab4
+timeCreated: 1493649936
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 16000
+  packageName: "Lux \u2013 Physically Based Shader Framework"
+  packageVersion: 2.02.2
+  assetPath: Assets/Lux 2.02 Personal/Lux Shaders/Lux custom Standard Shaders/Standard
+    Terrain FirstPass.shader
+  uploadId: 331151
